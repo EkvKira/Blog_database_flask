@@ -38,7 +38,12 @@ python app.py
 
 
 **Work with the database**
+We used the SQLite database because it takes up very little space and is easy to learn. It does not need to be downloaded separately, because it is immediately available in Python.
 
+Import SQLite3 module:
+```
+import sqlite3
+```
 ![Page for verify the database](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/Page_check_db.jpg)
 ![Check the database](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/Check_DB.jpg)
 ![Work in DBeaver](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/DBeaver_bd.jpg)
