@@ -28,18 +28,17 @@ python app.py
 
 **Page Home**
 
-![Page Home](https://github.com/EkvKira/.jpg)
+![Page Home](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/Home.jpg)
 
 **Add new post**
 
-![Page Add new post](https://github.com/EkvKira/.jpg)
-![Add new post](https://github.com/EkvKira/.jpg)
-![Success Add new post](https://github.com/EkvKira/.jpg)
+![Page Add new post](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/Page_add_new_post.jpg)
+![Add new post](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/Add_new_post.jpg)
+![Success Add new post](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/Success_add_post.jpg)
 
 
 **Work with the database**
 
-![Page for verify the database](https://github.com/EkvKira/.jpg)
-![Console with database](https://github.com/EkvKira/.jpg)
-![Check the database](https://github.com/EkvKira/.jpg)
-![Work in DBeaver](https://github.com/EkvKira/.jpg)
+![Page for verify the database](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/Page_check_db.jpg)
+![Check the database](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/Check_DB.jpg)
+![Work in DBeaver](https://github.com/EkvKira/Blog_database_flask/blob/main/img_for_README/DBeaver_bd.jpg)
